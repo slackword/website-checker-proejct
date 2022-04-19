@@ -1,2 +1,2 @@
-# website-checker_proejct
+# website-checker_project
 Website Connectivity Checker
